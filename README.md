@@ -64,7 +64,3 @@ GitHub: [@qubycode](https://github.com/qubycode)
 
 ---
 
-```
-
-Let me know if you'd like me to include screenshots or more sections like "Contributing" or "License"!
-```
