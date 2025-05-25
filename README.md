@@ -1,6 +1,3 @@
-Great! Here's your final **README.md** with your GitHub username `qubycode` included and everything in a single copy-paste block:
-
----
 
 ```markdown
 # 🚦 Traffic Signal System Simulation
